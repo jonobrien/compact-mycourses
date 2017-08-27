@@ -1,0 +1,22 @@
+.d2l-htmlblock {
+    display: none;
+}
+img.d2l-course-image {
+    display: none;
+}
+.d2l-course-tile-0 .course-image.d2l-course-tile d2l-course-image.d2l-course-tile {
+    display: none;
+}
+.d2l-course-tile-0 .course-image.d2l-course-tile {
+    display: none;
+}
+.d2l-course-tile-0 .course-image-container.d2l-course-tile {
+    display: none;
+}
+.d2l-course-tile-0 .tile-container.d2l-course-tile {
+    margin-bottom: .1rem;
+}
+.daylight .d2l-widget {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
